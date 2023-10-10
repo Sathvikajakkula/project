@@ -1,2 +1,2 @@
 # project
-project for oaisis
+project for oaisis.
